@@ -9,6 +9,7 @@
 ## Requirements
 
 - There must be at least one language file in the `resources/lang` folder (e.g.: `en.json`)
+- Laravel's default language should be the same as the base language file (e.g.: `en.json` and `en` as default language)
 
 ## How to Use it
 
